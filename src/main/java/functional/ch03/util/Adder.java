@@ -1,4 +1,4 @@
-package functional.ch03;
+package functional.ch03.util;
 
 import java.util.function.Function;
 
