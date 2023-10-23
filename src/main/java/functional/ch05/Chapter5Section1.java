@@ -12,7 +12,11 @@ public class Chapter5Section1 {
         return x + y;
     }
 
-    public static int subtract(int x, int y) {
+    public void myMethod() {
+        System.out.println(calculate(10, 3,  this::subtract));
+    }
+
+    public int subtract(int x, int y) {
         return x - y;
     }
 
@@ -29,7 +33,9 @@ public class Chapter5Section1 {
 
         System.out.println(calculate(6, 7, (x, y) -> x + y));
         System.out.println(calculate(3, 4, Chapter5Section1::add));
-        System.out.println(calculate(10, 4, Chapter5Section1::subtract));
+        System.out.println(calculate(10, 4, new Chapter5Section1()::subtract));
 
+        Chapter5Section1 instance = new Chapter5Section1();
+        instance.myMethod();
     }
 }
