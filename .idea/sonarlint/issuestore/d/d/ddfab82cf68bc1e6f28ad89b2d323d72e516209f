@@ -1,0 +1,9 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(æªİ”
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(¹€´·
+E	java:S106"+Replace this use of System.out by a logger.(îÁ–ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ã¾æ
+E	java:S106"+Replace this use of System.out by a logger.(¦‡¦Èÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(‚Æ¢–şÿÿÿÿ

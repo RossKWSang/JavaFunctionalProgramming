@@ -1,0 +1,16 @@
+
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ÔÙ°ç
+@	java:S106"+Replace this use of System.out by a logger.(Á›ª
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(ÖĞ¤ğ
+2
+java:S1116"Remove this empty statement.(ÖĞ¤ğ
+?	java:S106"+Replace this use of System.out by a logger.(¸ ôn
+r
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'Predicate<String>'(¥¶ƒÈşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(“÷Å°ùÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(ù†¸Æ
+E	java:S106""+Replace this use of System.out by a logger.(¹±ãÍûÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(¥Ô€¶ÿÿÿÿÿ
+?	java:S106$"+Replace this use of System.out by a logger.(²¨şW
