@@ -11,3 +11,17 @@ c
 3src/main/java/functional/ch05/Chapter5Section1.java,7/e/7e927ef71caeb33f6bcef517af097851d73ebd62
 c
 3src/main/java/functional/ch05/Chapter5Section2.java,d/d/ddfab82cf68bc1e6f28ad89b2d323d72e516209f
+\
+,src/main/java/functional/ch05/model/Suv.java,7/0/7064bfc0c4bdf38f0df1a4740f66b94ec2a9b78a
+^
+.src/main/java/functional/ch05/model/Sedan.java,6/d/6ddce3ad8707a71c9b57364fa5ad305e6fb7e8d0
+W
+'src/main/java/functional/ch04/User.java,5/1/5102be9b7ec83eab7a949834cf5d21fdab6757bd
+\
+,src/main/java/functional/ch05/model/Car.java,9/f/9f77ed2112664eec042ff5ff5abb562da65b3d91
+\
+,src/main/java/functional/ch05/model/Van.java,f/d/fd197542b815ea510f4da177904be6de96e0513c
+c
+3src/main/java/functional/ch05/Chapter5Section3.java,1/6/16d6a299f14eec8d5ecb498f9b88f351bb169edf
+c
+3src/main/java/functional/ch06/Chapter6Section1.java,6/2/6282b3c23684b19c709860e07163744d712837a6

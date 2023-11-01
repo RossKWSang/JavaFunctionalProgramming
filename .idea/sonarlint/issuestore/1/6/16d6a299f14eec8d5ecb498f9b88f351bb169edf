@@ -1,0 +1,14 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(¼ª€ƒüÿÿÿÿ8•ÖøÙ¶1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "sedan" 3 times.(ä“€ù8•ÖøÙ¶1
+X
+java:S1854";Remove this useless assignment to local variable "charlie".(…ŸÙ©8ÿÙûÙ¶1
+Z
+java:S1854"8Remove this useless assignment to local variable "user".(²Ôë‘ıÿÿÿÿ8˜ÖøÙ¶1
+K
+java:S1481")Remove this unused "user" local variable.(²Ôë‘ıÿÿÿÿ8šÖøÙ¶1
+I
+java:S1481",Remove this unused "charlie" local variable.(…ŸÙ©8ÚûÙ¶1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÔÌäªşÿÿÿÿ8‚ÚûÙ¶1
