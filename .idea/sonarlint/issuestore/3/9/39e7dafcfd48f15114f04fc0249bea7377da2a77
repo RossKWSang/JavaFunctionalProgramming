@@ -1,0 +1,8 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(‰ä”8Ô‰âÔ¸1
+L	java:S106"+Replace this use of System.out by a logger.(ÀêÉşıÿÿÿÿ8Õ‰âÔ¸1
+L	java:S1061"+Replace this use of System.out by a logger.(¬¸…ıÿÿÿÿ8Ö‰âÔ¸1
+G	java:S1066"+Replace this use of System.out by a logger.(Šê±8ŸÂãÔ¸1
+G	java:S106I"+Replace this use of System.out by a logger.(ì­èœ8˜¶ëÔ¸1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¦ÊêÔ¸1

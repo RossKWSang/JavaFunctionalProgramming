@@ -1,6 +1,4 @@
 
-Z
-java:S1854"=Remove this useless assignment to local variable "cityArray".(´Œ®ö8²£¤·1
-G	java:S106"+Replace this use of System.out by a logger.(°×ëÃ8´£¤·1
-K
-java:S1481".Remove this unused "cityArray" local variable.(´Œ®ö8´£¤·1
+G	java:S106"+Replace this use of System.out by a logger.(°×ëÃ8²êøÓ¸1
+F	java:S106"+Replace this use of System.out by a logger.(Â½ĞR8³êøÓ¸1
+L	java:S106"+Replace this use of System.out by a logger.(¦¥àşÿÿÿÿ8´êøÓ¸1

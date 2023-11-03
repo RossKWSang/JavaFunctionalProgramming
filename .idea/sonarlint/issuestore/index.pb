@@ -25,3 +25,11 @@ c
 3src/main/java/functional/ch05/Chapter5Section3.java,1/6/16d6a299f14eec8d5ecb498f9b88f351bb169edf
 c
 3src/main/java/functional/ch06/Chapter6Section1.java,6/2/6282b3c23684b19c709860e07163744d712837a6
+]
+-src/main/java/functional/ch06/model/User.java,c/5/c5bb6da4ac4789855c4e572c1c51e39828400f50
+b
+2src/main/java/functional/ch06/model/OrderLine.java,5/8/5854800e0bc1728ff57dc007b6b6900698c511e0
+^
+.src/main/java/functional/ch06/model/Order.java,9/5/9502c6bf17f564eadfe042bfb62ea3c159c8f40b
+c
+3src/main/java/functional/ch06/Chapter6Section2.java,3/9/39e7dafcfd48f15114f04fc0249bea7377da2a77
