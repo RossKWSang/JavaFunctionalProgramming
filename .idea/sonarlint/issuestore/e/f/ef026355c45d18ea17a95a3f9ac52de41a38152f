@@ -1,0 +1,10 @@
+
+\
+java:S1854G":Remove this useless assignment to local variable "orders".(ÄóÎºýÿÿÿÿ8•å¡•¹1
+L	java:S106"+Replace this use of System.out by a logger.(Ù«£áýÿÿÿÿ8˜å¡•¹1
+G	java:S106"+Replace this use of System.out by a logger.(Óä²Ô8™å¡•¹1
+G	java:S1061"+Replace this use of System.out by a logger.(‹¼‹×8œå¡•¹1
+M
+java:S1481G"+Remove this unused "orders" local variable.(ÄóÎºýÿÿÿÿ8žå¡•¹1
+O
+java:S1135H"2Complete the task associated to this TODO comment.(¬ÄÀ‰8žå¡•¹1

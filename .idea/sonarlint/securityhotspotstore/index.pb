@@ -33,3 +33,5 @@ b
 .src/main/java/functional/ch06/model/Order.java,9/5/9502c6bf17f564eadfe042bfb62ea3c159c8f40b
 c
 3src/main/java/functional/ch06/Chapter6Section2.java,3/9/39e7dafcfd48f15114f04fc0249bea7377da2a77
+c
+3src/main/java/functional/ch06/Chapter6Section3.java,e/f/ef026355c45d18ea17a95a3f9ac52de41a38152f
