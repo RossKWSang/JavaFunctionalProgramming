@@ -83,7 +83,12 @@ public class Chapter6Section4 {
         System.out.println(ordersList);
 
         // TODO: Find orders in ERROR status and created within 24 hours
+        List<Order> ordersListStatusIn24Hours = orders.stream()
+                .filter(order -> order.getStatus() == OrderStatus.ERROR)
+                .filter(order -> order.getCreatedAt().isAfter(now.minusHours(24)))
+                .collect(Collectors.toList());
 
+        System.out.println(ordersListStatusIn24Hours);
 
 
     }
