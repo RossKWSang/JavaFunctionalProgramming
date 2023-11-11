@@ -49,8 +49,13 @@ public class Chapter6Section6 {
         List<Order> orders = Arrays.asList(order1, order2, order3, order4, order5);
 
         // TODO: created a sorted list of unique CreatedByUserIds from the orders
+        List<Long> sortedUniqueUserIds = orders.stream()
+                .map(Order::getCreatedByUserId)
+                .distinct()
+                .sorted()
+                .collect(Collectors.toList());
 
-
-
+        System.out.println(sortedUniqueUserIds);
 
     }
+}
