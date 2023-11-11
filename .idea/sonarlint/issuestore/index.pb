@@ -37,3 +37,5 @@ c
 3src/main/java/functional/ch06/Chapter6Section3.java,e/f/ef026355c45d18ea17a95a3f9ac52de41a38152f
 c
 3src/main/java/functional/ch06/Chapter6Section4.java,d/8/d87ed6c53c414479be45585249fbcdc8c30610a9
+c
+3src/main/java/functional/ch06/Chapter6Section5.java,1/b/1b1b53a54ad02e123b5b105712f5af6945bdf51d
