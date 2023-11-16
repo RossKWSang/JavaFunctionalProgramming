@@ -39,3 +39,5 @@ c
 3src/main/java/functional/ch06/Chapter6Section4.java,d/8/d87ed6c53c414479be45585249fbcdc8c30610a9
 c
 3src/main/java/functional/ch06/Chapter6Section5.java,1/b/1b1b53a54ad02e123b5b105712f5af6945bdf51d
+c
+3src/main/java/functional/ch06/Chapter6Section6.java,b/8/b8d7ba7c949da4fe7d0929b2932cc384e573e560
