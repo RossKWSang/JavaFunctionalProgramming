@@ -1,0 +1,18 @@
+
+a
+java:S1854"?Remove this useless assignment to local variable "maybeEmail4".(úŠÏüıÿÿÿÿ8‡•¥Ã½1
+a
+java:S1854"?Remove this useless assignment to local variable "maybeEmail3".(ğè°óúÿÿÿÿ8ˆ•¥Ã½1
+\
+java:S1854*":Remove this useless assignment to local variable "email5".(Ç“ŠŒÿÿÿÿÿ8ˆ•¥Ã½1
+F	java:S106"+Replace this use of System.out by a logger.(¾’˜c8Š•¥Ã½1
+R
+java:S1481"0Remove this unused "maybeEmail3" local variable.(ğè°óúÿÿÿÿ8‹•¥Ã½1
+R
+java:S1481"0Remove this unused "maybeEmail4" local variable.(úŠÏüıÿÿÿÿ8Œ•¥Ã½1
+L	java:S106"+Replace this use of System.out by a logger.(î¸ıÿÿÿÿ8Œ•¥Ã½1
+L	java:S106""+Replace this use of System.out by a logger.(€Ñ±­ÿÿÿÿÿ8•¥Ã½1
+L	java:S106'"+Replace this use of System.out by a logger.(±Ÿı÷úÿÿÿÿ8•¥Ã½1
+L	java:S106)"+Replace this use of System.out by a logger.(äŸÜ©ùÿÿÿÿ8•¥Ã½1
+M
+java:S1481*"+Remove this unused "email5" local variable.(Ç“ŠŒÿÿÿÿÿ8•¥Ã½1

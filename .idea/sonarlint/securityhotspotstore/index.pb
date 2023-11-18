@@ -41,3 +41,7 @@ c
 3src/main/java/functional/ch06/Chapter6Section5.java,1/b/1b1b53a54ad02e123b5b105712f5af6945bdf51d
 c
 3src/main/java/functional/ch06/Chapter6Section6.java,b/8/b8d7ba7c949da4fe7d0929b2932cc384e573e560
+]
+-src/main/java/functional/ch07/model/User.java,e/3/e34b2313e00cba9bc7b64541081e7494628356a8
+c
+3src/main/java/functional/ch07/Chapter7Section1.java,b/6/b6c0756aa8b0d1631e477b27180a8ae53b72424b
