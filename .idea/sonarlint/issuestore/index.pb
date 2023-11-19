@@ -45,3 +45,5 @@ c
 -src/main/java/functional/ch07/model/User.java,e/3/e34b2313e00cba9bc7b64541081e7494628356a8
 c
 3src/main/java/functional/ch07/Chapter7Section1.java,b/6/b6c0756aa8b0d1631e477b27180a8ae53b72424b
+c
+3src/main/java/functional/ch07/Chapter7Section2.java,7/b/7b2d9984b0f7b827877f457de65d34069884c8ca
