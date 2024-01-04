@@ -21,11 +21,9 @@ public class Chapter5Section1 {
     }
 
     public static void main(String[] args) {
-        // 클래스의 static method
         Function<String, Integer> str2Int = Integer::parseInt;;
         System.out.println(str2Int.apply("20"));
 
-        // 선언된 객체의 instance method
         String str = "hello";
         Function<String, Boolean> isEqual = str::equals;
         System.out.println(isEqual.apply("hello"));
