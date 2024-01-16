@@ -25,36 +25,29 @@ public class Police {
             list[x][1]=Integer.parseInt(st.nextToken());
         }
 
-
-
-
-
+        // 1. 인덱스는 배정되는 사건의 순서
         bw.write(String.valueOf(police(1,0,0))+"\n");
 
         int index_one=0;
         int index_two=0;
 
-
         for(int index=1;index<=event_num;index++){
 
+            // 2. sep은 이동하는 경찰차 인덱스
             int one_remain=distance(1,index_one,index);
 
             if(dp[index_one][index_two]-one_remain==dp[index][index_two]){
                 index_one=index;
                 bw.write("1\n");
-            }else{
+            } else {
                 index_two=index;
                 bw.write("2\n");
             }
-
         }
 
         bw.flush();
         bw.close();
         br.close();
-
-
-
     }
 
 
@@ -62,23 +55,15 @@ public class Police {
         if(index>event_num)
             return 0;
 
-
-
         if(dp[one][two]!=0)
             return dp[one][two];
 
-
-
         int one_move=police(index+1,index,two)+distance(1,one,index);
-
         int two_move=police(index+1,one,index)+distance(2,two,index);
-
 
         dp[one][two]=Math.min(one_move,two_move);
 
-
         return dp[one][two];
-
     }
 
     public static int distance(int sep,int start,int end){
