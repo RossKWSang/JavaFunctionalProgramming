@@ -1,6 +1,9 @@
 package was.counter;
 
+// Counter는 기본적으로 스레드이다.
 public class Counter implements Runnable {
+
+    // 스레드는 상태값을 가지면 안된다.
     private int count = 0;
 
     public void increment() {
