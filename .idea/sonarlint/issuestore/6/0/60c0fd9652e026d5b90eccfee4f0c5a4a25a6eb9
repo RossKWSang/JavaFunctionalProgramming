@@ -1,0 +1,15 @@
+
+_
+java:S1854	"DRemove this useless assignment to local variable "myStringConsumer".(‘µÆ¿úÿÿÿÿ
+G
+java:S1602	",Remove useless curly braces around statement(‘µÆ¿úÿÿÿÿ
+[
+java:S1612	"@Replace this lambda with method reference 'System.out::println'.(‘µÆ¿úÿÿÿÿ
+?	java:S106
+"+Replace this use of System.out by a logger.(ƒÚáB
+P
+java:S1481	"5Remove this unused "myStringConsumer" local variable.(‘µÆ¿úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Äç¡“ÿÿÿÿÿ
+B
+java:S1602",Remove useless curly braces around statement(£ÎÏû
+E	java:S106"+Replace this use of System.out by a logger.(–¦¬›úÿÿÿÿ

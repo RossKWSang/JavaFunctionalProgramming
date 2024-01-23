@@ -1,8 +1,8 @@
-package mvc.controller;
+package servlet.controller;
 
-import mvc.annotation.Controller;
-import mvc.annotation.RequestMapping;
-import mvc.annotation.RequestMethod;
+import servlet.annotation.Controller;
+import servlet.annotation.RequestMapping;
+import servlet.annotation.RequestMethod;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
