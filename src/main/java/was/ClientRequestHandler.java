@@ -24,7 +24,6 @@ public class ClientRequestHandler implements Runnable {
         try (InputStream in = clientSocket.getInputStream(); OutputStream out = clientSocket.getOutputStream()) {
             BufferedReader br = new BufferedReader(new InputStreamReader(in, StandardCharsets.UTF_8));
             DataOutputStream dos = new DataOutputStream(out);
-
             HttpRequest httpRequest = new HttpRequest(br);
 
             // GET /calculate?operand1=11&operator=*&operand2=55 HTTP/1.1
