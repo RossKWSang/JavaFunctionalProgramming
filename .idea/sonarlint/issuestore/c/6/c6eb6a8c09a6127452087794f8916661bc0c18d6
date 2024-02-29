@@ -1,0 +1,42 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó£¿‰şÿÿÿÿ
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ëØûøÿÿÿÿ
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğë¹
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö—àä
+k	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÚî½øÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÏÃ´úÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÏÃ´úÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÏÃ´úÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÏÃ´úÿÿÿÿ
+k
+java:S1104"PMake list a static final constant or non-public and provide accessors if needed.(È­Õæùÿÿÿÿ
+k
+java:S1104	"UMake event_num a static final constant or non-public and provide accessors if needed.(Œò¯
+j
+java:S1104	"TMake line_num a static final constant or non-public and provide accessors if needed.(Œò¯
+d
+java:S1104
+"NMake dp a static final constant or non-public and provide accessors if needed.(¥Ö¯¨
+E
+java:S1444"*Make this "public static list" field final(È­Õæùÿÿÿÿ
+E
+java:S1444	"/Make this "public static event_num" field final(Œò¯
+D
+java:S1444	".Make this "public static line_num" field final(Œò¯
+>
+java:S1444
+"(Make this "public static dp" field final(¥Ö¯¨
+j
+java:S3008	"TRename this field "event_num" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œò¯
+i
+java:S3008	"SRename this field "line_num" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œò¯
+<
+java:S1659	"&Declare "line_num" on a separate line.(Œò¯
+8
+java:S2386"Make this member "protected".(È­Õæùÿÿÿÿ
+3
+java:S2386
+"Make this member "protected".(¥Ö¯¨
+@	java:S106"+Replace this use of System.out by a logger.(ûÄÏ
+_
+java:S1659F"DDeclare "y_start" and all following declarations on a separate line.(¿ÏÃ´úÿÿÿÿ

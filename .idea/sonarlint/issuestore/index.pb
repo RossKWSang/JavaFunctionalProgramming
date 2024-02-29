@@ -172,3 +172,7 @@ c
 .src/main/java/functional/ch10/model/Price.java,7/a/7a0ef7a6c8d3242388dcb067e08ba77c2f848658
 o
 ?src/main/java/functional/ch10/model/service/PriceProcessor.java,a/2/a2a81546bc0f8f82596e6b900f7b2c8646505b12
+g
+7src/main/java/algorithm/dynamic_programming/Police.java,c/6/c6eb6a8c09a6127452087794f8916661bc0c18d6
+a
+1src/main/java/designPattern/compositePattern.java,5/3/539419dbe380f3c92b185e3eb553821b60291bea
